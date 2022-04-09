@@ -7,6 +7,6 @@
     <title>Coba Git Remote</title>
 </head>
 <body>
-    
+    <h1>menambahkan commit</h1>
 </body>
 </html>
